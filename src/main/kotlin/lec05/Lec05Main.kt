@@ -1,10 +1,10 @@
 package lec05
 
-import Person
+import JavaPerson
 
 fun main() {
     println(startsWithA("AA"))
-    println(startsWithA(Person("a", 10)))
+    println(startsWithA(JavaPerson("a", 10)))
 }
 
 fun judgeNumber(number: Int) {

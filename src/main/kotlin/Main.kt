@@ -8,8 +8,8 @@ fun main(args: Array<String>) {
     println(str?.length ?: 0)
 
     // !!
-    val person = Person("min kim", 32)
-    startsWithA(person.name)
+    val javaPerson = JavaPerson("min kim", 32)
+    startsWithA(javaPerson.name)
 
 }
 

@@ -2,17 +2,16 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.Objects;
 
-public class Person implements Comparable {
+public class JavaPerson implements Comparable {
 
     private final String name;
     private final int age;
 
-    public Person(String name, int age) {
+    public JavaPerson(String name, int age) {
         this.name = name;
         this.age = age;
     }
 
-    //    @Nullable
     @NotNull
     public String getName() {
         return this.name;
@@ -27,10 +26,10 @@ public class Person implements Comparable {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        Person person = (Person) o;
+        JavaPerson javaPerson = (JavaPerson) o;
 
-        if (age != person.age) return false;
-        return Objects.equals(name, person.name);
+        if (age != javaPerson.age) return false;
+        return Objects.equals(name, javaPerson.name);
     }
 
     @Override
@@ -42,7 +41,7 @@ public class Person implements Comparable {
 
     @Override
     public int compareTo(@NotNull Object o) {
-        Person p = (Person) o;
+        JavaPerson p = (JavaPerson) o;
         return this.age - p.age;
     }
 }

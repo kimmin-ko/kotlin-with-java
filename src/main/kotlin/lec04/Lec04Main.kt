@@ -1,14 +1,14 @@
 package lec04
 
-import Person
+import JavaPerson
 
 fun main() {
     val a: Long = 10L
     val b: Long = 10L
 //    println(a >= b) // call compareTo()
 
-    val p1 = Person("a", 11)
-    val p2 = Person("a", 10)
+    val p1 = JavaPerson("a", 11)
+    val p2 = JavaPerson("a", 10)
     val p3 = p1
 
     println(p1 == p2) // 동등성

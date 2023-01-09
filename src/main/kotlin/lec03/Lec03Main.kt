@@ -1,22 +1,22 @@
 package lec03
 
-import Person
+import JavaPerson
 
 fun main() {
     val number1: Int? = 3
     val number2: Long = number1?.toLong() ?: 0L
 
-    printAgeIfPerson(Person("min", 19))
+    printAgeIfPerson(JavaPerson("min", 19))
     printAgeIfPerson(null)
 
-    val person = Person("min kim", 32)
-    val str = "사람의 이름은 ${person.name}이고 나이는 ${person.age}입니다."
+    val javaPerson = JavaPerson("min kim", 32)
+    val str = "사람의 이름은 ${javaPerson.name}이고 나이는 ${javaPerson.age}입니다."
     println(str)
 
     val trimIndent = """
         ABC
         DEF
-        ${person.name}
+        ${javaPerson.name}
     """.trimIndent()
     println(trimIndent)
 
@@ -28,6 +28,6 @@ fun main() {
 }
 
 fun printAgeIfPerson(obj: Any?) {
-    val person = obj as? Person
-    println(person?.age)
+    val javaPerson = obj as? JavaPerson
+    println(javaPerson?.age)
 }

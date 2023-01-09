@@ -2,7 +2,7 @@
 <module version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../src/main">
-      <excludeFolder url="file://$MODULE_DIR$/../../src/main/kotlin/lec08" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/kotlin/lec_08" />
     </content>
   </component>
 </module>
