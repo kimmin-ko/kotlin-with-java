@@ -36,8 +36,6 @@ R
 "src/main/kotlin/lec05/Lec05Main.kt,1/8/18b2713bf92b8a85ebaedc398228e2c3e1de54d2
 R
 "src/main/kotlin/lec08/Lec08Main.kt,8/2/820c1ea344a9efa9c9fa9bb02269b1b3140cb724
-G
-src/main/kotlin/Main.kt,d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5
 O
 src/main/kotlin/lec09/Person.kt,a/9/a9371243a3a89d9d1fe1139198debdab718fb883
 M
