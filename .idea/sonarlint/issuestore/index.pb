@@ -26,8 +26,6 @@ T
 $src/main/kotlin/lec07/FilePrinter.kt,b/8/b8d1ed8d6a021ae6a8ba34aaaf6980a7dd629ada
 L
 src/main/java/Lec07Main.java,0/8/085e1b716c82f0c34a40165eee46b61e9d6d8e2b
-G
-src/main/java/Main.java,e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
 W
 '.idea/modules/kotlin-with-java.main.iml,4/3/435e3bdafa0da1cb838d6fc48087df9518fa762d
 R
