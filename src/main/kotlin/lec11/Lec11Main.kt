@@ -18,6 +18,5 @@ fun main() {
     isDirectory()
     val car = Car("name", "owner", 5000)
     car.name
-    car.owner
     car.price
 }
