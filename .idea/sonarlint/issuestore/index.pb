@@ -22,8 +22,6 @@ R
 "src/main/java/JavaFilePrinter.java,7/5/759fac0e92970789555f8110ae43545900ffcd58
 R
 "src/main/kotlin/lec07/Lec07Main.kt,7/4/74ea356f4245d2ffcb1fc504990123b01e2854f4
-T
-$src/main/kotlin/lec07/FilePrinter.kt,b/8/b8d1ed8d6a021ae6a8ba34aaaf6980a7dd629ada
 L
 src/main/java/Lec07Main.java,0/8/085e1b716c82f0c34a40165eee46b61e9d6d8e2b
 W
@@ -34,14 +32,10 @@ R
 "src/main/kotlin/lec04/Lec04Main.kt,3/2/32e4114191c58551d99249ac27e200ff8cd9ab8f
 R
 "src/main/kotlin/lec05/Lec05Main.kt,1/8/18b2713bf92b8a85ebaedc398228e2c3e1de54d2
-R
-"src/main/kotlin/lec08/Lec08Main.kt,8/2/820c1ea344a9efa9c9fa9bb02269b1b3140cb724
 O
 src/main/kotlin/lec09/Person.kt,a/9/a9371243a3a89d9d1fe1139198debdab718fb883
 M
 src/main/java/JavaPerson.java,8/b/8b2b1cb8a5db2e5f92beddfcf0be13e4a278ba59
-O
-src/main/kotlin/lec10/Animal.kt,0/c/0c30f73f044373e22b7a1c9c74bdc78f09c5370a
 L
 src/main/kotlin/lec10/Cat.kt,2/2/2249be4dc7dda001fd058cd9da8a808c748af458
 P
